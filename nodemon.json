@@ -1,0 +1,5 @@
+{
+  "watch": ["build/index.js"],
+  "ext": "js",
+  "exec": "docker restart lusiaa-game-service-nakama-1"
+}
